@@ -150,7 +150,8 @@
 - resources>static>public
 
 
-
+# thymeleaf的使用
+[参考文档](https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#using-texts)
 
 
 

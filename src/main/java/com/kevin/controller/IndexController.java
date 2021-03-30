@@ -8,7 +8,6 @@ import java.util.Arrays;
 /**
  * @project_name：springbootproject
  * @name：IndexController
- * @description：TODO
  * @date：2021/3/28 10:04 下午
  * @auther：dexukong
  */
